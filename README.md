@@ -6,7 +6,7 @@ A simple and responsive Currency Converter application that allows users to:
 - Display real-time exchange rates dynamically.
 
 ## Preview
-![Currency Converter Preview](./Currency Converter(Preview).jpg)
+![Currency Converter Preview](./Currency Converter (Preview).jpg)
 
 ## Features
 - Dynamic dropdowns with country flags for easy selection.
