@@ -20,8 +20,4 @@ A simple and responsive Currency Converter application that allows users to:
 - **[Flags API](https://flagsapi.com)**: For displaying country flags.
 - **[Exchange Rate API](https://currency-api.pages.dev/)**: For fetching live exchange rates.
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repository.git
    
